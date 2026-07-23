@@ -1,5 +1,10 @@
 # coursera-back-end-development-dotnet
 
+![Swagger UI overview](assets/screenshots/Screenshot%202026-07-22%20at%208.38.41%20PM.png)
+![Swagger UI Authorize dialog](assets/screenshots/Screenshot%202026-07-22%20at%208.37.55%20PM.png)
+
+> ⭐ **If you find this repo useful or insightful, please consider giving it a star!** It helps others discover it and keeps me motivated to keep improving it. ⭐
+
 A minimal ASP.NET Core Web API for managing users, built as part of a Coursera back-end development course. It exposes CRUD endpoints for users backed by an in-memory repository, with custom middleware for logging, authentication, and centralized error handling.
 
 ## Requirements
